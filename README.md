@@ -1,2 +1,2 @@
 # taylors-series
-Building Trig Functions with the Taylor Series
+building trig functions with the taylor series
